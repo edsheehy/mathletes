@@ -1,4 +1,3 @@
- -*- coding: utf-8 -*-
 """
 
 Very rough initial code to carry out k-means cluster analysis
